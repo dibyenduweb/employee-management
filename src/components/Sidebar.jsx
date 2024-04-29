@@ -9,28 +9,43 @@ const Sidebar = () => {
             <hr />
             <ul className="mt-3 text-white font-bold">
                 <li className="mb-2 rounded hover:shadow hover:bg-blue-500 py-2">
-                    <a href="" className="px-3">
-                        Home
+                    <a href="/" className="px-3">
+                        Dashbord
                     </a>
                 </li>
                 <li className="mb-2 rounded hover:shadow hover:bg-blue-500 py-2">
                     <a href="" className="px-3">
-                        Home
+                        Employees
                     </a>
                 </li>
                 <li className="mb-2 rounded hover:shadow hover:bg-blue-500 py-2">
                     <a href="" className="px-3">
-                        Home
+                        Holidays
                     </a>
                 </li>
                 <li className="mb-2 rounded hover:shadow hover:bg-blue-500 py-2">
                     <a href="" className="px-3">
-                        Home
+                        Leaves Admin
                     </a>
                 </li>
                 <li className="mb-2 rounded hover:shadow hover:bg-blue-500 py-2">
                     <a href="" className="px-3">
-                        Home
+                        Leaves Employee
+                    </a>
+                </li>
+                <li className="mb-2 rounded hover:shadow hover:bg-blue-500 py-2">
+                    <a href="" className="px-3">
+                        Leave Settings
+                    </a>
+                </li>
+                <li className="mb-2 rounded hover:shadow hover:bg-blue-500 py-2">
+                    <a href="" className="px-3">
+                        Attendance Admin
+                    </a>
+                </li>
+                <li className="mb-2 rounded hover:shadow hover:bg-blue-500 py-2">
+                    <a href="" className="px-3">
+                        Attendance Employee
                     </a>
                 </li>
             </ul>
